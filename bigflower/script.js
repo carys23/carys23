@@ -1,4 +1,4 @@
-const canvas = document.getElementByID('canvas1');
+const canvas = document.getElementById('canvas1');
 const ctx = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
@@ -14,7 +14,7 @@ function drawFlower (){
         ctx.lineWidth =5;
         ctx.beginPath();
         ctx.arc(postitionX. positionY, 20, 0, Math.PI * 2);
-        ctx.closePtyh() ;
+        ctx.closePtyh();
         ctx.fillStyle();
         ctx.stroke();
 
