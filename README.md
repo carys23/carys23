@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://www.phtographybycarys.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.photographybycarys.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://https://www.linkedin.com/in/photographybycarys//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://https://www.linkedin.com/in/photographybycarys//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-photographybycarys%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/photographybycarys/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-photographybycarys__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:caryspritch@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
