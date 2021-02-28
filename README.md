@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/carys23/carys23/master/assets/carys23%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Carys </h2>
 
