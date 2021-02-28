@@ -1,359 +1,60 @@
-import emoji from "react-easy-emoji";
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-const illustration = {
-  animated: true // set to false to use static SVG
-};
+<h2> Hey there! I'm Carys/h2>
 
-const greeting = {
-  username: "Carys23",
-  title: "Hello, I'm Carys",
-  subTitle: emoji(
-    " I'm a photographer learning HTML, CSS, Javascript, Python and react. So far I've developed web sites, text based games and react clones"
-  ),
-  resumeLink:
-    // "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
-    "https://www.photographybycarys.com",
-  displayGreeting: true // Set false to hide this section, defaults to true
-};
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-// Social Media Links
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; I'm currently in Code Nation boot camp
+- 💼 &nbsp; Working as freelance photographer since 2014.
+- ✍️ &nbsp; Pursuing Graphic Design and HTML, CSS, Javascipt, React and Python.
 
-const socialMediaLinks = {
-  github: "https://github.com/carys23",
-  // linkedin: "https://www.linkedin.com/in/",
-  gmail: "caryspritch@:gmail.com",
-  // gitlab: "https://gitlab.com/",
-  // facebook: "https://www.facebook.com/",
-  instagram: 'https://www.instagram.com/photographybycarys/',
-  display: true // Set true to display this section, defaults to false
-};
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-// Skills Section
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-const skillsSection = {
-  title: "What I do",
-  subTitle: "I'm photographer looking to building websites using my photography, marketing and coding skills",
-  skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-   
-  ],
+<br/>
 
-  /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+<a href="https://github.com/carys23
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
 
-  softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    
-   
-  ],
-  display: true // Set false to hide this section, defaults to true
-};
+<br/>
 
-// Education Section
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-const educationInfo = {
-  display: false, // Set false to hide this section, defaults to true
-  schools: [
-    {
-      schoolName: "City of Liverpool College",
-      // logo: require("./GithubProfile"),
-      subHeader: "Photography and photoshop imaging: Edexcel BTEC Level 3 extended diploma ",
-      duration: "2011 - 2013",
-      // desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
-    {
-      schoolName: "BW2",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Introduction to Digital Technologies: Level 1 diploma ",
-      duration: "2020 - 2020",
-      // desc:
-      //   "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
-  ]
-};
+<p align="center">
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://https://www.linkedin.com/in/photographybycarys//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/photographybycarys/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:caryspritch@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-// Your top 3 proficient stacks/tech experience
-
-const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
-  experience: [
-    {
-      Stack: "Frontend / Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Backend",
-      progressPercentage: "70%"
-    },
-    {
-      Stack: "Programming",
-      progressPercentage: "90%"
-    }
-  ],
-  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
-};
-
-// Work experience section
-
-const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
-  experience: [
-    {
-      role: "Freelance photographer",
-      company: "Photography by Carys",
-      // companylogo: require("./assets/images/cpLogo.png"),
-      date: "2014 – Present",
-      // desc:
-      //   "Changing lives of developers one line of code at a time.",
-      descBullets: [
-        "Customer service",
-        "Photoshop",
-        "Lightroom",
-        "Web design",
-        "Logo design"
-      ]
-    },
-    {
-      role: "Photographer and social media ",
-      company: "Pruno wines",
-      // companylogo: require("./assets/images/ersteLogo.jpg"),
-      date: "2020 – Present day",
-      desc:
-        "Photographing products in studio and on local. Uploading images to website and keeping stock up todate on website. Running social media account keeping content fresh and within trend."
-    },
-    {
-      role: "Photographer and social media",
-      company: "Bistro franc",
-      // companylogo: require("./assets/images/vodafoneLogo.png"),
-      date: "2020- Present day",
-      desc:
-        "Running social media account keeping content fresh and within trend. Answering messages through the social media account"
-    }
-  ]
-};
-
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
-
-const openSource = {
-  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "carys23", // Change to your github username to view your profile in Contact Section.
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
-};
-
-// Some big projects you have worked on
-
-const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
-  projects: [
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "fa"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: ""
-        }
-      ]
-    }
-  ],
-  display: false // Set false to hide this section, defaults to true
-};
-
-// Achievement Section
-// Include certificates, talks etc
-
-// const achievementSection = {
-//   title: emoji("Achievements And Certifications 🏆 "),
-//   subtitle:
-//     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
-
-//   achievementsCards: [
-//     {
-//       title: "Google Code-In Finalist",
-//       subtitle:
-//         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-//       image: require("./assets/images/codeInLogo.webp"),
-//       footerLink: [
-//         {
-//           name: "Certification",
-//           url:
-//             ""
-//         },
-//         {
-//           name: "Award Letter",
-//           url:
-//             ""
-//         },
-//         {
-//           name: "Google Code-in Blog",
-//           url:
-//             ""
-//         }
-//       ]
-//     },
-//     {
-//       title: "Google Assistant Action",
-//       subtitle:
-//         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-//       image: require("./assets/images/googleAssistantLogo.webp"),
-//       footerLink: [
-//         {
-//           name: "View Google Assistant Action",
-//           url:
-//             ""
-//         }
-//       ]
-//     },
-
-//     {
-//       title: "PWA Web App Developer",
-//       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-//       image: require("./assets/images/pwaLogo.webp"),
-//       footerLink: [
-//         {name: "Certification", url: ""},
-//         {
-//           name: "Final Project",
-//           url: ""
-//         }
-//       ]
-//     }
-//   ],
-//   display: false // Set false to hide this section, defaults to true
-// };
-
-// Blogs Section
-
-// const blogSection = {
-//   title: "Blogs",
-//   subtitle:
-//     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-
-//   blogs: [
-//     {
-//       url:
-//         "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-//       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-//       description:
-//         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-//     },
-//     {
-//       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-//       title: "Why REACT is The Best?",
-//       description:
-//         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-//     }
-//   ],
-//   display: true // Set false to hide this section, defaults to true
-// };
-
-// Talks Sections
-
-// const talkSection = {
-//   title: "TALKS",
-//   subtitle: emoji(
-//     ""
-//   ),
-
-//   talks: [
-//     {
-//       title: "",
-//       subtitle: "",
-//       slides_url: "",
-//       event_url: ""
-//     }
-//   ],
-//   display: false // Set false to hide this section, defaults to true
-// };
-
-// Podcast Section
-
-// const podcastSection = {
-//   title: emoji("Podcast 🎙️"),
-//   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
-
-//   // Please Provide with Your Podcast embeded Link
-//   podcast: [
-//     ""
-//   ],
-//   display: false // Set false to hide this section, defaults to true
-// };
-
-const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  // number: "07793022872",
-  email_address: "caryspritch@gmail.com"
-};
-
-// Twitter Section
-
-// const twitterDetails = {
-//   userName: "davidrakosi_", //Replace "twitter" with your twitter username without @
-//   display: true // Set true to display this section, defaults to false
-// };
-
-// export {
-//   illustration,
-//   greeting,
-//   socialMediaLinks,
-//   skillsSection,
-//   educationInfo,
-//   techStack,
-//   workExperiences,
-//   openSource,
-//   bigProjects,
-//   achievementSection,
-//   blogSection,
-//   talkSection,
-//   podcastSection,
-//   contactInfo,
-//   twitterDetails
-// };
+⭐️ From [AVS1508](https://github.com/AVS1508)
