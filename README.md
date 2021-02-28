@@ -30,7 +30,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
 
-<a href="https://github.com/carys23
+<a href="https://github.com/carys23/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carys23&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carys23&theme=buefy&layout=compact" />
 </a>
