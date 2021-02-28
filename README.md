@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/carys23/carys23/master/assets/carys23%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Carys </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
