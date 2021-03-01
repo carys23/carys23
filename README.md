@@ -28,6 +28,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)
 <br/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carys23&theme=buefy&show_icons=true" />
